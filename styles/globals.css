@@ -14,3 +14,17 @@ a {
 * {
   box-sizing: border-box;
 }
+.ul {
+  width: 800px;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+.li {
+  margin: 10px;
+}
+.page {
+  border: black 1px solid;
+  margin: 20px;
+  padding: 5px;
+}
